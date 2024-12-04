@@ -1,6 +1,8 @@
 # Process Noisy Images by Gaussian and Wiener Filter
 <p align="center">
 <a href="https://www.mathworks.com/products/matlab.html" target="_blank"><img src="https://img.shields.io/badge/download-matlab-yellow"></a>
+<a href="https://en.wikipedia.org/wiki/Gaussian_filter#:~:text=A%20Gaussian%20filter%20will%20have,oscilloscopes%20and%20digital%20telecommunication%20systems." target="_blank"><img src="https://img.shields.io/badge/wikipedia-gaussianfilter-black"></a>
+<a href="https://en.wikipedia.org/wiki/Wiener_filter" target="_blank"><img src="https://img.shields.io/badge/wikipedia-wienerfilter-yellow"></a>
 </p>
 <p align="center">
 <a href="https://twitter.com/12dtan" target="_blank"><img src="https://img.shields.io/twitter/follow/12dtan.svg?style=social&label=Follow"></a>
