@@ -23,11 +23,8 @@
 ### Giải pháp
 Để giảm nhiễu trong hình ảnh, chúng tôi đề xuất sử dụng bộ lọc Gaussian kết hợp với bộ lọc Wiener.
 
-## Gaussian Filter
-Nguồn tham khảo: [vision-systems.com](https://www.vision-systems.com/home/article/14174546/filtering-techniques-eliminate-gaussian-image-noise)
+## Kết quả
 
-### Sơ đồ khối
-
-![Output](/bg_file/1.png)
+![Output](/bg_file/output.png)
 
 
